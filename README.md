@@ -54,20 +54,20 @@ To install WorldGuard Custom Flags in the local repository:
 1. Download the 1.8.1-beta plugin JAR from [here](http://dev.bukkit.org/bukkit-plugins/worldguard-custom-flags/).
 1. Install the JAR into the repository:
 ```
-   mvn install:install-file -Dpackaging=jar -Dfile=WGCustomFlags.jar \
-     -DgroupId=com.mewin -DartifactId=WGCustomFlags -Dversion=1.8.1-beta
+mvn install:install-file -Dpackaging=jar -Dfile=WGCustomFlags.jar \
+  -DgroupId=com.mewin -DartifactId=WGCustomFlags -Dversion=1.8.1-beta
 ```
 
 To install WorldGuard Region Events in the local repository:
 
 1. Check out and build the latest sources (version 1.1) from GitHub:
 ```
-   git clone https://github.com/mewin/WorldGuard-Region-Events
-   cd WorldGuard-Region-Events
-   mvn package
+git clone https://github.com/mewin/WorldGuard-Region-Events
+cd WorldGuard-Region-Events
+mvn package
 ```
 2. Install the JAR into the local repository:
 ```
-   mvn install:install-file -Dpackaging=jar -Dfile=target/WGRegionEvents-1.1.jar \
-     -DgroupId=com.mewin -DartifactId=WGRegionEvents -Dversion=1.1
+mvn install:install-file -Dpackaging=jar -Dfile=target/WGRegionEvents-1.1.jar \
+  -DgroupId=com.mewin -DartifactId=WGRegionEvents -Dversion=1.1
 ```
