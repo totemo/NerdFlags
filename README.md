@@ -50,6 +50,7 @@ wrote both of these plugins.)  So, instead, NerdFlags' dependencies must be
 installed in the local repository, as follows.
 
 To install WorldGuard Custom Flags in the local repository:
+
 1. Download the 1.8.1-beta plugin JAR from [here](http://dev.bukkit.org/bukkit-plugins/worldguard-custom-flags/).
 1. Install the JAR into the repository:
    ```
@@ -58,6 +59,7 @@ To install WorldGuard Custom Flags in the local repository:
    ```
 
 To install WorldGuard Region Events in the local repository:
+
 1. Check out and build the latest sources (version 1.1) from GitHub:
    ```
    git clone https://github.com/mewin/WorldGuard-Region-Events
