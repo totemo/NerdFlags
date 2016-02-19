@@ -5,6 +5,7 @@
     <artifactId>NerdFlags</artifactId>
     <version>0.1.6</version>
     <build>
+        <defaultGoal>package</defaultGoal>
         <sourceDirectory>${basedir}/src</sourceDirectory>
         <resources>
             <resource>
