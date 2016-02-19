@@ -31,8 +31,8 @@ Available flags:
 | use-fence-gate        | State                 | ALLOW         | Allow or deny player interaction (right click) with a fence gate. |
 | use-brewing-stand     | State                 | ALLOW         | Allow or deny player interaction (right click) with a brewing stand. |
 | use-cauldron          | State                 | ALLOW         | Allow or deny player interaction (right click) with a cauldron. |
-| use-enchantment-table | State                 | ALLOW         | Allow or deny player interaction (right click) with a enchantment table. |
-| use-ender-chest       | State                 | ALLOW         | Allow or deny player interaction (right click) with a ender chest. |
+| use-enchantment-table | State                 | ALLOW         | Allow or deny player interaction (right click) with an enchantment table. |
+| use-ender-chest       | State                 | ALLOW         | Allow or deny player interaction (right click) with an ender chest. |
 | use-tripwire          | State                 | ALLOW         | Allow or deny player interaction with a trip wire. |
 | use-beacon            | State                 | ALLOW         | Allow or deny player interaction (right click) with a beacon. |
 | use-anvil             | State                 | ALLOW         | Allow or deny player interaction (right click) with an anvil. |
